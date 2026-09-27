@@ -1,0 +1,1 @@
+vue-component-meta 3.3.11 reports slots declared with `slots: Object as SlotsType<...>` as a tuple (`[{ foo: string; }]`, `kind: 'array'`) instead of the slot props object that `defineSlots` gives. Run `npm start`.
